@@ -1,6 +1,6 @@
 # RealEs - Modern Real Estate Website
 
-![RealEs Website Screenshot](https://i.ibb.co/C5fwJ27/Screenshot-From-2025-06-01-12-23-58.png)
+![RealEs Website Screenshot](public/home.jpeg)
 
 ## Overview
 
