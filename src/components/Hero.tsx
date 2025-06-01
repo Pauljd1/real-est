@@ -1,5 +1,4 @@
 import { HERO } from "../constants";
-import SearchForm from "./SearchForm";
 import TableSearchForm from "./TableSearchForm";
 
 const Hero = () => {

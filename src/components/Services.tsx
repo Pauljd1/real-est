@@ -1,6 +1,6 @@
 import { SERVICES_TEXT } from "../constants";
 import Image from "next/image";
-import { CheckCircle, Globe, Building, Users, ArrowRight } from "lucide-react";
+import { Globe, Building, Users, ArrowRight } from "lucide-react";
 
 const Services = () => {
   const features = [
