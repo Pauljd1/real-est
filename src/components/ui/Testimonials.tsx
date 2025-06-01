@@ -1,4 +1,4 @@
-import { TESTIMONIALS } from "../constants";
+import { TESTIMONIALS } from "../../constants";
 import Image from "next/image";
 import { Quote, Star, ChevronRight } from "lucide-react";
 
@@ -43,7 +43,7 @@ export const Testimonials = () => {
 
                 <div className="relative mb-6">
                   <p className="text-slate-300 italic leading-relaxed">
-                    "{testimonial.feedback}"
+                    &ldquo;{testimonial.feedback}&rdquo;
                   </p>
                 </div>
 

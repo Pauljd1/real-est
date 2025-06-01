@@ -1,5 +1,6 @@
-@import "tailwindcss";
-@import "tw-animate-css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @keyframes fadeIn {
   from {
@@ -279,6 +280,8 @@
     animation: float-delayed 7s ease-in-out 2s infinite;
   }
 }
+
+@import "tw-animate-css";
 
 .works {
   background-image: linear-gradient(
