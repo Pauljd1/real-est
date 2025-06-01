@@ -1,4 +1,4 @@
-import { FEATURED_PROPERTIES } from "@/constants";
+import { FEATURED_PROPERTIES } from "../constants";
 import { Star, MapPin, BedDouble, Bath, ChevronRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";

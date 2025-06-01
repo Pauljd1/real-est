@@ -1,4 +1,4 @@
-import { TESTIMONIALS } from "@/constants";
+import { TESTIMONIALS } from "../constants";
 import Image from "next/image";
 import { Quote, Star, ChevronRight } from "lucide-react";
 

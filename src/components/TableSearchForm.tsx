@@ -9,12 +9,12 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
+} from "./ui/select";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 import { Calendar } from "./ui/calendar";
-import { cn } from "@/lib/utils";
+import { cn } from "../lib/utils";
 
 const TableSearchForm = () => {
   const [selectedDate, setSelectedDate] = useState<Date | undefined>(undefined);

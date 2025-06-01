@@ -1,4 +1,4 @@
-import { HOW_IT_WORKS } from "@/constants";
+import { HOW_IT_WORKS } from "../constants";
 import { ChevronRight, Home, Calendar, FileCheck } from "lucide-react";
 import React from "react";
 

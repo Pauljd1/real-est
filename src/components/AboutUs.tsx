@@ -1,4 +1,4 @@
-import { ABOUT_US_TEXT } from "@/constants";
+import { ABOUT_US_TEXT } from "../constants";
 import { Users, Home, Award, ChevronRight } from "lucide-react";
 import Image from "next/image";
 

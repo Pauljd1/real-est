@@ -1,4 +1,4 @@
-import { FOOTER } from "@/constants";
+import { FOOTER } from "../constants";
 import Link from "next/link";
 import {
   Facebook,
